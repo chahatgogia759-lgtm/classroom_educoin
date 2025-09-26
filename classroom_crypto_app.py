@@ -152,4 +152,4 @@ if __name__ == "__main__":
     classroom.leaderboard()
 
     print("=== Ledger ===")
-    classroom.blockchain.print_ledger()S
+    classroom.blockchain.print_ledger()
